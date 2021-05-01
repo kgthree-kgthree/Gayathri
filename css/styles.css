@@ -50,6 +50,11 @@ p {
 }
 
 /********************************CLASS SELECTORS*******************************/
+/* Navbar */
+.navbar-light {
+  /* background-color: transparent; */
+  color: #523906;
+}
 
 /* Top section */
 .top-container {
@@ -61,7 +66,7 @@ p {
   background-color: #cdeeaa;
 
   position: relative;
-  padding-top: 100px;
+  padding-top: 0;
   padding-bottom: 20%;
   margin: auto;
   /* padding: 100px auto 20%; */
